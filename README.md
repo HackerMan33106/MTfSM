@@ -40,6 +40,7 @@ When you launch the program (main.exe), it automatically:
 3. Run the compiler as administrator.
 4. After compiling, the .exe file will be moved to the compiler folder, and temporary files will be deleted.
 ### 🔹 Additional Features and Plans
+💡 If there are no bugs then this will be the last MTfSM update!
 ✅ Fully autonomous process – no setup required.
 ✅ Automatic Steam path detection – the program works on any system with Steam installed.
 ✅ Support for 11 languages – translation is now available in 11 languages, including Russian, English, Chinese, Spanish, German, and others.
@@ -89,6 +90,7 @@ When you launch the program (main.exe), it automatically:
 3. Запустите компилятор от имени администратора.
 4. После компиляции .exe файл будет перемещён в папку с компилятором, а временные файлы будут удалены.
 ### 🔹 Дополнительные возможности и планы
+💡 Если багов не будет тогда это будет последним обновление MTfSM!
 ✅ Полностью автономный процесс – не требует настройки.
 ✅ Автоматическое определение пути Steam – программа работает на любых системах с установленным Steam.
 ✅ Поддержка 11 языков – теперь доступен перевод на 11 языков, включая русский, английский, китайский, испанский, немецкий и другие.
