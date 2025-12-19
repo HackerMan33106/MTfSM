@@ -41,10 +41,15 @@ When you launch the program (main.exe), it automatically:
 4. After compiling, the .exe file will be moved to the compiler folder, and temporary files will be deleted.
 ### 🔹 Additional Features and Plans
 💡 If there are no bugs then this will be the last MTfSM update!
+
 ✅ Fully autonomous process – no setup required.
+
 ✅ Automatic Steam path detection – the program works on any system with Steam installed.
+
 ✅ Support for 11 languages – translation is now available in 11 languages, including Russian, English, Chinese, Spanish, German, and others.
+
 ⚙️ Handling large mods – optimization has been added to improve the program’s ability to handle large mods without freezing. The program now processes mods faster and with less system load.
+
 🚀 Updates and fixes – we are continuously improving the code and fixing bugs for more stable operation.
 
 # <ins>Русская версия</ins>:
@@ -90,9 +95,15 @@ When you launch the program (main.exe), it automatically:
 3. Запустите компилятор от имени администратора.
 4. После компиляции .exe файл будет перемещён в папку с компилятором, а временные файлы будут удалены.
 ### 🔹 Дополнительные возможности и планы
+
 💡 Если багов не будет тогда это будет последним обновление MTfSM!
+
 ✅ Полностью автономный процесс – не требует настройки.
+
 ✅ Автоматическое определение пути Steam – программа работает на любых системах с установленным Steam.
+
 ✅ Поддержка 11 языков – теперь доступен перевод на 11 языков, включая русский, английский, китайский, испанский, немецкий и другие.
+
 ⚙️ Обработка больших модов – добавлена оптимизация работы программы для обработки крупных модов без зависаний. Программа теперь обрабатывает моды быстрее и с меньшими нагрузками на систему.
+
 🚀 Обновления и исправления – постоянно улучшаем код и исправляем баги для более стабильной работы.
